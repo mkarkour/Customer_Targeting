@@ -56,7 +56,7 @@ To use the project:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies mentioned above.
-3. Open and run the Jupyter Notebook files (`train_marketing.ipynb` and `test_marketing.ipynb`) to perform the analysis and predictions.
+3. Open and run the Jupyter Notebook file to perform the analysis and predictions.
 4. Modify and adapt the predictive model as needed for your specific marketing campaigns.
 
 ## Questions or Assistance
